@@ -1,0 +1,1608 @@
+@media (max-width: 991.5px) {
+
+
+
+  
+
+    /* .location-main-content {
+        position: relative;
+        overflow-x: clip !important;
+        overflow-y: clip !important;
+    } */
+    .locations-top {
+        width: 100%;
+    }
+    
+
+    .location-title {
+        margin-bottom: 10px;
+    }
+
+    /* Roles-card-responsive-css::Start */
+    .all-roles-cards-wrapper {
+        height: 100%;
+    }
+
+    /* Roles-card-responsive-css::End */
+
+    /* Main-content-css::Start */
+    /* .main-content {
+        margin: 0px 0px 100px;
+    } */
+    .calender-content {
+        margin: 0px !important;
+    }
+
+    /* Main-content-css::End */
+
+    /* Modal-responsive-css::Start */
+    .customer-details-modal .modal-dialog,
+    .appointment-list-modal .modal-dialog {
+        max-width: 90% !important;
+        margin: 0 auto;
+    }
+
+    /* Modal-responsive-css::End */
+
+    /* Footer-css::Start */
+    .footer-wrapper {
+        position: unset;
+    }
+
+    .main-content {
+        margin: 30px 0px;
+    }
+
+    /* Footer-css::End */
+
+    /* Calendar-header-responsive::Start */
+    .calendar-pills .nav-link {
+        min-width: 75px;
+    }
+
+    .calendar-date-text {
+        margin: 0px 8px;
+    }
+
+    .calendar-ul-top {
+        margin: 0px 0px 15px;
+    }
+
+    .calendar-date-and-back-btn {
+        text-align: center;
+    }
+
+    .header-calendar-and-search {
+        justify-content: end;
+        margin-bottom: 20px;
+        flex-direction: row-reverse;
+    }
+
+    .calendar-search-btn {
+        flex-direction: row-reverse;
+        margin-left: 0px;
+    }
+
+    .calendar-search-input .form-control {
+        margin-right: 10px;
+        margin-left: 0px;
+    }
+
+    .calendar-filter-btn {
+        padding-left: 10px;
+    }
+
+    .search-btn.btn.icon-btn {
+        margin-left: 10px;
+    }
+
+    .calendar-header .title-20 {
+        font-size: 18px;
+    }
+
+    .calendar-date-text .small-title-18 {
+        font-size: 15px;
+    }
+
+    .calendar-pills .nav-link,
+    .filter-btn span {
+        font-size: 14px;
+    }
+
+    .filter-btn i {
+        font-size: 14px;
+    }
+
+    .next-prev-calendar .icon-btn {
+        width: 35px;
+        height: 35px;
+    }
+
+    /* Calendar-header-responsive::End */
+
+    /* Options-card-responsive-css::Start */
+    .options-wrapper {
+        height: 100%;
+    }
+
+    .option-card {
+        padding: 0px;
+    }
+
+    .option-title .title-20 {
+        font-size: 18px !important;
+    }
+
+    /* Options-card-responsive-css::End */
+
+    /* Location-drawer-css::Start */
+    .location-drawer-main {
+        width: 100% !important;
+    }
+
+    .reveal-location-drawer {
+        right: 100%;
+    }
+
+    .location-bottom-line {
+        width: inherit;
+    }
+
+    .location-main-content {
+        padding-top: 50px;
+        margin: 0px 20px !important;
+    }
+
+    .location-cards-wrapper {
+        margin-top: 100px;
+        padding: 0px 5px;
+    }
+
+    /* Location-drawer-css::End */
+
+    /* Calendar-header-bottom-css::Start */
+    .calendar-details-row {
+        text-align: start !important;
+    }
+
+    /* Calendar-header-bottom-css::End */
+
+    /* Help-desk-table-responsive-css::Start */
+
+    .day-view-table .table tbody tr th {
+        min-width: 145px;
+        max-width: 145px;
+    }
+
+    .help-desk-day-view-row {
+        flex-wrap: nowrap !important;
+    }
+
+    .day-view-table .table tbody tr td {
+        min-width: none !important;
+        max-width: none !important;
+    }
+
+    .day-view-table .table thead tr th:first-of-type {
+        min-width: unset !important;
+        max-width: unset !important;
+        width: unset !important;
+    }
+
+    /* Help-desk-table-responsive-css::End */
+
+    /* Vertical-table-view::Start */
+    .vertical-week-view .table tbody tr td {
+        max-width: unset !important;
+        min-width: unset !important;
+    }
+
+    /* Vertical-table-view::End */
+    .map-location-inner-row {
+        padding: 0;
+    }
+
+    .list-view-top {
+        padding: 15px;
+    }
+
+    .custom-pagination {
+        padding: 0px 15px;
+    }
+
+    .list-view-card .card {
+        -webkit-box-shadow: 6px 11px 41px -28px #796eb1;
+        margin-bottom: 15px;
+    }
+
+    /* Customer-location-list-responsive-css::End */
+
+
+    /* Customer-location-v2-css::Start */
+    .location-main-content-v2 {
+        margin: 0px !important;
+    }
+
+    .list-view-link,
+    .available-slots {
+        margin-top: 5px;
+    }
+
+    .location-address-and-zip {
+        margin-top: 5px;
+    }
+
+    .map-location-container .nav-tabs {
+        justify-content: center !important;
+    }
+
+    .location-wrapper-col {
+        padding: 0;
+    }
+
+    /* Customer-location-v2-css::End */
+}
+@media (min-width:600px) and (max-width:1024px) {
+
+    /* Location-drawer-responsive-css::Start */
+    .location-view-slot-main {
+        margin-top: 0px !important;
+        justify-content: flex-end !important;
+    }
+
+    /* Location-drawer-responsive-css::End */
+
+    /* Calendar-header-css::Start */
+    .next-prev-calendar {
+        justify-content: start;
+    }
+
+    /* Calendar-header-css::End */
+}
+@media (min-width:600px) and (max-width:1024px) and (orientation:portrait) {
+
+
+
+
+    /* Calendar-header-css::End */
+
+    /* New-location-list-page-css::Start */
+    /* .small-green-location,
+    .small-orange-location,
+    .small-red-location {
+        width: 450px;
+    }
+    .customer-location-list .small-locations-main {
+        height: 60vh !important;
+    }
+    .green-location-sm-1 {
+
+        bottom: 140px;
+        left: 135px;
+    }
+    .green-location-sm-2 {
+        bottom: 28px;
+        left: 272px;
+    }
+    .green-location-sm-0 {
+        bottom: 26px;
+        left: -65px;
+    }
+    .orange-location-sm-0 {
+        bottom: 109px;
+        left: -120px;
+    }
+    .orange-location-sm-1 {
+        bottom: 209px;
+        left: 130px;
+    }
+    .orange-location-sm-2 {
+        bottom: 130px;
+        left: 303px;
+    }
+    .red-location-sm-0 { 
+        bottom: 133px;
+        left: -96px;
+    }
+    .red-location-sm-1 { 
+        bottom: 209px;
+        left: 134px;
+    }
+    .red-location-sm-2 {
+        bottom: 145px;
+        left: 285px;
+    }
+    .small-red-location {
+        bottom: 205px;
+    } */
+    /* .customer-location-wrapper {
+        height: 67vh;
+    }
+    .red-location-top {
+        bottom: 245px;
+    }
+    .orange-location-top {
+        bottom: 100px;
+    }
+ 
+    .red-location-0 {
+        top: -61px;
+        left: 33px;
+    }
+    .red-location-1 {
+        top: -84px;
+        left: 197px;
+    }
+    .red-location-2 {
+        top: -60px;
+        left: 316px;
+    }
+    .customer-location-title {
+        width: 100%;
+        top: 20px;
+        z-index: 55;
+    } */
+    /* New-location-list-page-css::End */
+}
+@media (min-width:280px) and (max-width:640px) {
+  /* New-admin-css */
+  .month-next-prev-btn {
+ 
+    justify-content: start;
+    margin-top: 20px;
+}
+.workshop-date-and-search {
+    text-align: start;
+    margin-top: 10px;
+}
+.admin-list-view .custom-pagination ul 
+{
+    justify-content: start;
+    margin-top: 20px;
+    padding:0px !important; 
+}
+/* New-admin-css */
+    /* Modal-responsive-css::Start */
+    .modal-title-20 {
+        font-size: 16px;
+        ;
+    }
+
+    .custom-modal .modal-content {
+        padding: 0px;
+    }
+
+    .time-text {
+        margin-top: 15px;
+    }
+
+    /* Modal-responsive-css::End */
+
+    /* Calendar-responsive-css::Start */
+    .calendar-date-and-back-btn {
+        text-align: center;
+    }
+
+    .calendar-ul-top {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    /* Calendar-responsive-css::End */
+
+    /* Location-drawer-responsive-css::Start */
+    .location-view-slot-main {
+        margin-top: 15px;
+        justify-content: flex-start;
+    }
+
+    .location-zipCode-main {
+        justify-content: start;
+        margin-top: 10px;
+    }
+
+    .more-location-btn-main {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .select-location-title .small-title-18 {
+        font-size: 15px;
+    }
+
+    .location-title {
+        margin: 15px 0px;
+    }
+
+    /* Location-drawer-responsive-css::End */
+
+
+}
+@media (min-width:576px) and (max-width:780px) {
+
+    /* Location-drawer-responsive-css::Start */
+    .location-view-slot-main {
+        margin-top: 0px !important;
+        justify-content: flex-end !important;
+    }
+
+    .more-location-btn-main {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    /* Location-drawer-responsive-css::End */
+}
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait) {
+
+    /* Location-page-css::Start */
+    .more-location-btn-main {
+        text-align: end;
+        margin-top: 0px;
+    }
+
+    .location-main-content {
+        padding-top: 0px !important;
+    }
+
+    .more-location-col,
+    .location-title-col {
+        margin: 10px 0px;
+    }
+
+    .location-title {
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+    /* Location-page-css::End */
+
+}
+@media (min-width:992px) and (max-width:1366px) {
+
+    /* Calendar-header-responsive::Start */
+    .calendar-pills .nav-link {
+        min-width: 75px;
+    }
+
+    .calendar-ul-top {
+        text-align: end;
+    }
+
+    .calendar-pills .nav-link,
+    .filter-btn span {
+        font-size: 14px;
+    }
+
+    .filter-btn i {
+        font-size: 14px;
+    }
+
+    .calendar-date-text .small-title-18 {
+        font-size: 16px;
+    }
+
+    .calendar-pills.nav-pills {
+        padding: 5px;
+    }
+
+    .header-calendar-and-search {
+        justify-content: start;
+        margin-bottom: 0px;
+    }
+
+    .next-prev-calendar .icon-btn {
+        width: 35px;
+        height: 35px;
+    }
+
+    /* Calendar-header-responsive::End */
+    /* Location-page-responsive-css::Start */
+    .select-location-title .title-20 {
+        font-size: 16px !important;
+    }
+
+    /* Location-page-responsive-css::Start */
+    .col-location-25 {
+        display: none;
+    }
+
+    .more-location-col,
+    .location-title-col {
+        max-width: 50%;
+        flex: 0 0 50%;
+        margin: 10px 0px;
+    }
+
+    .location-title {
+        justify-content: start;
+    }
+
+    /* Location-page-responsive-css::End */
+}
+@media (min-width:1024px) and (max-width:1366px) {
+
+    /* Confirm-details-modal-css::Start */
+    .customer-details-modal .modal-dialog {
+        max-width: 95%;
+    }
+
+    /* Options-responsive-css::Start */
+    .options-row {
+        flex: 0 0 80%;
+        max-width: 80%;
+    }
+
+    .reschedule-card-row {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+
+    /* Options-responsive-css::End */
+}
+
+/* Location-responsive-breakpoints::Start */
+@media (max-width: 480px) {
+
+    .small-device-locations .customer-location-wrapper {
+        height: calc(100vh - 265px);
+        width: 100%;
+    }
+
+    .small-device-locations .city-name-main {
+        min-width: 130px;
+    }
+
+    .small-device-locations .green-location-top {
+        left: unset;
+    }
+    .small-device-locations .location-main-content {
+        overflow-x: clip !important;
+    }
+    .small-device-locations .green-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 60px;
+    }
+    .small-device-locations .all-locations-row {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        margin: 0 auto;
+        left: 0;
+    }
+    .small-device-locations .green-location-row {
+        width: 480px;
+        margin: 0 auto;
+    }
+    .small-device-locations .green-location-img {
+        min-width: 480px;
+        width: 480px;
+        margin: 0 auto;
+    }
+    .small-device-locations .green-location-name {
+        width: 480px;
+    }
+
+    .small-device-locations .customer-location-wrapper {
+        width: 100%;
+    }
+
+    .small-device-locations .locations-top {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .small-device-locations .green-location-0 {
+        position: absolute;
+        top: -139px;
+        left: -25px;
+    }
+
+    .small-device-locations .green-location-1 {
+        position: absolute;
+        top: -185px;
+        left: 138px;
+    }
+
+    .small-device-locations .green-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 99px;
+    }
+
+    .small-device-locations .green-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    .small-device-locations .green-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 21px;
+    }
+
+    .small-device-locations .green-location-2 {
+        position: absolute;
+        left: 262px;
+        top: -132px;
+    }
+    .small-device-locations .green-location-3 {
+        position: absolute;
+        right: 42px;
+        top: -100px;
+    }
+
+    .small-device-locations .customer-location-title {
+        position: absolute;
+        bottom: 30px;
+        width: 550px;
+    }
+
+    .small-device-locations.city-name-main {
+        min-width: 125px;
+    }
+
+    .small-device-locations .center-side-location {
+        position: relative;
+        left: -1px;
+    }
+
+    .small-device-locations .customer-location-title {
+        width: 100%;
+        left: 0;
+    }
+
+    /* Orange */
+    .small-device-locations .orange-location-top {
+        bottom: 60px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .orange-location-row {
+        width: 480px;
+    }
+
+    .small-device-locations .orange-location-img {
+        min-width: 480px;
+        width: 480px;
+    }
+
+    .small-device-locations .orange-location-name {
+        width: 480px;
+    }
+
+    .small-device-locations .orange-location-0 {
+        position: absolute;
+        top: -175px;
+        left: -29px;
+    }
+
+    .small-device-locations .orange-location-1 {
+        position: absolute;
+        top: -219px;
+        left: 137px;
+    }
+
+    .small-device-locations .orange-location-2 {
+        position: absolute;
+        top: -175px;
+        left: 256px;
+    }
+    .small-device-locations .orange-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    .small-device-locations .orange-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 99px;
+    }
+
+    .small-device-locations .orange-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 21px;
+    }
+
+    /* Orange */
+    /* red */
+    .small-device-locations .red-location-top {
+        bottom: 155px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .red-location-row {
+        width: 500px;
+    }
+
+    .small-device-locations .red-location-img {
+        min-width: 500px;
+        width: 500px;
+    }
+
+    .small-device-locations .red-location-name {
+        width: 500px;
+    }
+
+    .small-device-locations .red-location-0 {
+        position: absolute;
+        top: -189px;
+        left: -10px;
+    }
+
+    .small-device-locations .red-location-1 {
+        position: absolute;
+        top: -227px;
+        left: 148px;
+    }
+
+    .small-device-locations .red-location-2 {
+        position: absolute;
+        top: -181px;
+        left: 271px;
+    }
+
+    .small-device-locations .red-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 10px;
+    }
+
+    .small-device-locations .red-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 90px;
+    }
+
+    .small-device-locations .red-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    /*Red  */
+
+
+}
+@media (min-width: 600px) and (orientation:landscape){
+
+    .small-device-locations .customer-location-wrapper {
+        height: calc(100vh - 35px) !important;
+        width: 100%;
+    }
+
+    .small-device-locations .city-name-main {
+        min-width: 130px;
+    }
+
+    .small-device-locations .green-location-top {
+        left: unset;
+    }
+    .small-device-locations  .location-main-content {
+        overflow-x: clip !important;
+    }
+    .small-device-locations .green-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 60px;
+    }
+    .small-device-locations .all-locations-row {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        margin: 0 auto;
+        left: 0;
+    }
+    .small-device-locations .green-location-row {
+        width: 480px;
+        margin: 0 auto;
+    }
+    .small-device-locations .green-location-img {
+        min-width: 480px;
+        width: 480px;
+        margin: 0 auto;
+    }
+    .small-device-locations .green-location-name {
+        width: 480px;
+    }
+
+    .small-device-locations .customer-location-wrapper {
+        width: 100%;
+    }
+
+    .small-device-locations .locations-top {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .small-device-locations .green-location-0 {
+        position: absolute;
+        top: -139px;
+        left: -25px;
+    }
+
+    .small-device-locations .green-location-1 {
+        position: absolute;
+        top: -185px;
+        left: 138px;
+    }
+
+    .small-device-locations .green-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 99px;
+    }
+
+    .small-device-locations .green-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    .small-device-locations .green-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 21px;
+    }
+
+    .small-device-locations .green-location-2 {
+        position: absolute;
+        left: 262px;
+        top: -132px;
+    }
+    .small-device-locations .green-location-3 {
+        position: absolute;
+        right: 42px;
+        top: -100px;
+    }
+
+    .small-device-locations .customer-location-title {
+        position: absolute;
+        bottom: 30px;
+        width: 550px;
+    }
+
+    .small-device-locations.city-name-main {
+        min-width: 125px;
+    }
+
+    .small-device-locations .center-side-location {
+        position: relative;
+        left: -1px;
+    }
+
+    .small-device-locations .customer-location-title {
+        width: 100%;
+        left: 0;
+    }
+
+    /* Orange */
+    .small-device-locations .orange-location-top {
+        bottom: 0px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .orange-location-row {
+        width:600px;
+    }
+
+    .small-device-locations .orange-location-img {
+        min-width:600px;
+        width: 600px;
+    }
+
+    .small-device-locations .orange-location-name {
+        width: 600px;
+    }
+    .small-device-locations .orange-location-0 {
+        position: absolute;
+        top: -203px;
+        left: -7px;
+    }
+    .small-device-locations .orange-location-1 {
+        position: absolute;
+        top: -260px;
+        left: 197px;
+    }
+
+    .small-device-locations .orange-location-2 {
+        position: absolute;
+        top: -188px;
+        left: 376px;
+    }
+    .small-device-locations .orange-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    .small-device-locations .orange-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 99px;
+    }
+
+    .small-device-locations .orange-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 21px;
+    }
+
+    /* red */
+    .small-device-locations .red-location-top {
+        bottom: 55px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .red-location-row {
+        width: 700px;
+    }
+
+    .small-device-locations .red-location-img {
+        min-width: 700px;
+        width: 70px;
+    }
+
+    .small-device-locations .red-location-name {
+        width: 700px;
+    }
+
+    .small-device-locations .red-location-0 {
+        position: absolute;
+        top: -210px;
+        left: -10px;
+    }    
+
+    .small-device-locations .red-location-1 {
+        position: absolute;
+        top: -294px;
+        left: 248px;
+    }
+
+    .small-device-locations .red-location-2 {
+        position: absolute;
+        top: -209px;
+        left: 461px;
+    }
+    .small-device-locations .red-location-0 .city-name-main.left-side-location {
+        position: relative;
+        /* left: 90px; */
+    }
+
+    .small-device-locations .red-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    /*Red  */
+
+
+}
+@media (min-width: 481px) and (max-width: 767px) {
+    .small-device-locations .customer-location-wrapper {
+        height: calc(100vh - 270px);
+    }
+    .small-device-locations .location-main-content
+    { 
+ overflow-x: clip !important;
+    }
+
+    .small-device-locations .all-locations-row {
+        bottom: -15px;
+        width: 100%;
+    }
+
+    .small-device-locations .green-location-row {
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .small-device-locations .green-location-img {
+        min-width: 480px;
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .small-device-locations .green-location-name {
+        width: 480px;
+    }
+
+    .small-device-locations .customer-location-wrapper {
+        width: 100%;
+    }
+
+    .small-device-locations .locations-top {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+    }
+
+    .small-device-locations .green-location-0 {
+        position: absolute;
+        top: -144px;
+        left: -17px;
+    }
+
+    .small-device-locations .green-location-1 {
+        position: absolute;
+        top: -183px;
+        left: 137px;
+    }
+
+    .small-device-locations .green-location-2 {
+        position: absolute;
+        left: 238px;
+        top: -148px;
+    }
+
+    .small-device-locations .green-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 112px;
+    }
+
+    .small-device-locations .customer-location-title {
+        position: absolute;
+        bottom: 35px;
+        width: 100%;
+    }
+
+    .small-device-locations .city-name-main {
+        min-width: 125px;
+    }
+
+    .small-device-locations .center-side-location {
+        position: relative;
+        left: 42px;
+    }
+
+    .small-device-locations .customer-location-title {
+        width: 100%;
+        left: 0;
+    }
+
+    .small-device-locations .green-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 40px;
+    }
+
+
+
+    /* Orange */
+    .small-device-locations .orange-location-top {
+
+        bottom: -5px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .orange-location-row {
+        width: 650px;
+    }
+
+    .small-device-locations .orange-location-img {
+        min-width: 650px;
+        width: 650px;
+    }
+
+    .small-device-locations .orange-location-name {
+        width: 650px;
+    }
+
+    .small-device-locations .orange-location-0 {
+        position: absolute;
+        top: -245px;
+        left: 55px;
+    }
+
+    .small-device-locations .orange-location-1 {
+        position: absolute;
+        top: -276px;
+        left: 222px;
+    }
+    .small-device-locations .orange-location-2 {
+        position: absolute;
+        top: -255px;
+        left: 320px;
+    }
+    .small-device-locations .orange-location-1 .city-name-main.center-side-location {
+        position: relative;
+        left: 45px;
+    }
+    .small-device-locations .orange-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 40px;
+    }
+
+    /* Orange */
+    /* red */
+    .small-device-locations .red-location-top {
+        bottom: 65px;
+        left: unset;
+        width: unset;
+    }
+
+    .small-device-locations .red-location-row {
+        width: 750px;
+    }
+
+    .small-device-locations .red-location-img {
+        min-width: 750px;
+        width: 750px;
+    }
+
+    .small-device-locations .red-location-name {
+        width: 750px;
+    }
+
+    .small-device-locations .red-location-0 {
+        position: absolute;
+        top: -282px;
+        left: 102px;
+    }
+
+    .small-device-locations .red-location-1 {
+        position: absolute;
+        top: -309px;
+        left: 274px;
+    }
+
+    .small-device-locations .red-location-2 {
+        position: absolute;
+        top: -291px;
+        left: 372px;
+    }
+
+    /* .red-location-2 .city-name-main.right-side-location {
+        position: relative;
+        left: 30px;
+    } */
+
+    .red-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left:40px;
+    }
+
+    .small-device-locations .red-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 110px;
+    }
+
+    /*Red  */
+    .small-device-locations.location-title {
+        margin: 15px 0px;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .medium-device-locations .location-main-content {
+        overflow-x: clip !important;
+    }
+    .medium-device-locations .all-locations-row {
+        bottom: -35px;
+        width: 100%;
+    }
+
+    .medium-device-locations .locations-top {
+        width: 100%;
+    }
+
+    .medium-device-locations .green-location-top {
+        left: unset;
+    }
+
+    .medium-device-locations .green-location-row {
+        width: 450px;
+        margin: 0 auto;
+    }
+
+    .medium-device-locations .green-location-img {
+        min-width: 450px;
+        width: 450px;
+        margin: 0 auto;
+    }
+
+    .medium-device-locations .green-location-name {
+        width: 450px;
+    }
+
+    .medium-device-locations .customer-location-wrapper {
+        height: calc(100vh - 310px);
+        width: 100%;
+    }
+
+    .medium-device-locations .locations-top {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .medium-device-locations .green-location-0 {
+        position: absolute;
+        top: -119px;
+        left: -49px;
+    }
+
+    .medium-device-locations .green-location-1 {
+        position: absolute;
+        top: -178px;
+        left: 120px;
+    }
+    .medium-device-locations .green-location-2 {
+        position: absolute;
+        left: 247px;
+        top: -121px;
+    }
+
+    /* .green-location-3 {
+        position: absolute;
+        right: 52px;
+        top: -115px;
+    } */
+    .medium-device-locations .green-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 60px;
+    }
+
+    .medium-device-locations .orange-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 60px;
+    }
+
+    .medium-device-locations .red-location-1 .city-name-main.left-side-location {
+        position: relative;
+        left: 60px;
+    }
+
+    .medium-device-locations .city-name-main {
+        min-width: 125px;
+    }
+
+    .medium-device-locations .center-side-location {
+        position: relative;
+        left: 45px;
+    }
+
+    .medium-device-locations .customer-location-title {
+        width: 100%;
+        left: 0;
+        bottom: 40px;
+    }
+
+    /* Orange */
+    .medium-device-locations .orange-location-top {
+        bottom: -20px;
+        left: unset;
+        width: unset;
+    }
+
+    .medium-device-locations .orange-location-row {
+        width: 750px;
+    }
+
+    .medium-device-locations .orange-location-img {
+        min-width: 750px;
+        width: 750px;
+    }
+
+    .medium-device-locations .orange-location-name {
+        width: 750px;
+    }
+
+    .medium-device-locations .orange-location-0 {
+        position: absolute;
+        top: -262px;
+        left: 58px;
+    }
+
+    .medium-device-locations .orange-location-1 {
+        position: absolute;
+        top: -311px;
+        left: 270px;
+    }
+    .medium-device-locations .orange-location-2 {
+        position: absolute;
+        top: -263px;
+        left: 440px;
+    }
+
+    .medium-device-locations .orange-location-3 {
+        position: absolute;
+        top: -248px;
+        right: 137px;
+    }
+
+    /* Orange */
+    /* red */
+    .medium-device-locations .red-location-top {
+        bottom: 60px;
+        left: unset;
+        width: unset;
+    }
+
+    .medium-device-locations .red-location-row {
+        width: 900px;
+    }
+
+    .medium-device-locations .red-location-img {
+        min-width: 900px;
+        width: 900px;
+    }
+
+    .medium-device-locations .red-location-name {
+        width: 900px;
+    }
+
+    .medium-device-locations .red-location-0 {
+        position: absolute;
+        top: -315px;
+        left: 119px;
+    }
+
+    .medium-device-locations .red-location-1 {
+        position: absolute;
+        top: -362px;
+        left: 348px;
+    }
+    .medium-device-locations .red-location-2 {
+        position: absolute;
+        top: -314px;
+        left: 534px;
+    }
+
+    .medium-device-locations .red-location-3 {
+        position: absolute;
+        top: -278px;
+        right: 155px;
+    }
+
+    .medium-device-locations .red-location-3 .city-name-main.right-side-location {
+        position: relative;
+        left: 0px;
+    }
+
+    .medium-device-locations .red-location-0 .city-name-main.left-side-location {
+        position: relative;
+        left: 10px;
+    }
+
+    /*Red  */
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation:landscape) {
+    .medium-device-locations .customer-location-wrapper {
+        height: calc(100vh - 195px);
+        width: 100%;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px) and (orientation:landscape) {
+    .medium-device-locations .customer-location-wrapper {
+        height: calc(100vh - 245px);
+        width: 100%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1365px) {
+    .large-device-locations  .customer-location-wrapper {
+          height: calc(100vh - 195px);
+      }
+
+      .large-device-locations  .all-locations-row {
+          bottom: -35px;
+          width: 100%;
+      }
+      .large-device-locations .green-location-row {
+          width: 550px;
+          margin: 0 auto;
+      }
+
+    .large-device-locations   .green-location-img {
+          min-width: 550px;
+          width: 550px;
+          margin: 0 auto;
+      }
+
+      .large-device-locations .green-location-name {
+          width: 550px;
+      }
+
+      .large-device-locations   .large-device-locations   .customer-location-wrapper {
+          width: 100%;
+      }
+
+      .large-device-locations    .locations-top {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-pack: center;
+          -ms-flex-pack: center;
+          justify-content: center;
+      }
+
+      .large-device-locations  .green-location-0 {
+          position: absolute;
+          top: -116px;
+          left: -49px;
+      }
+
+      .large-device-locations  .green-location-1 {
+          position: absolute;
+          top: -176px;
+          left: 30px;
+      }
+
+      .large-device-locations   .green-location-2 {
+          position: absolute;
+          left: 171px;
+          top: -204px;
+      }
+
+      .large-device-locations    .green-location-1 .city-name-main.left-side-location {
+          position: relative;
+          left: 17px;
+      }
+
+      .large-device-locations   .orange-location-1 .city-name-main.left-side-location {
+          position: relative;
+          left: 17px;
+      }
+
+      .large-device-locations   .red-location-1 .city-name-main.left-side-location {
+          position: relative;
+          left: 17px;
+      }
+
+      .large-device-locations    .green-location-3 {
+          position: absolute;
+          right: 163px;
+          top: -178px;
+      }
+
+      .large-device-locations       .green-location-4 {
+          position: absolute;
+          right: 80px;
+          bottom: 85px;
+      }
+
+      .large-device-locations     .customer-location-title {
+          position: absolute;
+          bottom: 30px;
+          width: 550px;
+      }
+      .large-device-locations   .green-location-top {
+          z-index: 55;
+          position: absolute;
+          left:unset;
+          bottom: 0;
+      }
+      .large-device-locations      .city-name-main {
+          min-width: 125px;
+      }
+
+      .large-device-locations     .center-side-location {
+          position: relative;
+          left: 44px;
+      }
+
+      .large-device-locations    .customer-location-title {
+          bottom: 55px;
+          width: 550px;
+      }
+
+      /* Orange */
+      .large-device-locations    .orange-location-top {
+          bottom: -25px;
+          left: unset;
+          width: unset;
+      }
+
+      .large-device-locations   .orange-location-row {
+          width: 800px;
+      }
+
+      .large-device-locations  .orange-location-img {
+          min-width: 800px;
+          width: 800px;
+      }
+
+      .large-device-locations  .orange-location-name {
+          width: 800px;
+      }
+
+      .large-device-locations  .orange-location-0 {
+          position: absolute;
+          top: -228px;
+          left: 1px;
+      }
+
+      .large-device-locations    .orange-location-1 {
+          position: absolute;
+          top: -299px;
+          left: 120px;
+      }
+
+      .large-device-locations   .orange-location-2 {
+          position: absolute;
+          top: -329px;
+          left: 293px;
+      }
+
+      .large-device-locations   .orange-location-3 {
+          position: absolute;
+          top: -299px;
+          right: 243px;
+      }
+
+      .large-device-locations .orange-location-4 {
+          top: -217px;
+          right: 116px;
+          position: absolute;
+      }
+
+      /* Orange */
+
+      /* red */
+      .large-device-locations    .red-location-top {
+          bottom: 30px;
+          left: unset;
+          width: unset;
+      }
+
+      .large-device-locations .red-location-row {
+          width: 980px;
+      }
+
+      .large-device-locations    .red-location-img {
+          min-width: 980px;
+          width: 980px;
+      }
+
+      .large-device-locations  .red-location-name {
+          width: 980px;
+      }
+
+      .large-device-locations   .red-location-0 {
+          position: absolute;
+          top: -276px;
+          left: 40px;
+      }
+
+      .large-device-locations .red-location-1 {
+          position: absolute;
+          top: -360px;
+          left: 188px;
+      }
+
+      .large-device-locations   .red-location-2 {
+          position: absolute;
+          top: -390px;
+          left: 385px;
+      }
+
+      .large-device-locations   .red-location-3 {
+          position: absolute;
+          top: -357px;
+          right: 307px;
+      }
+
+      .large-device-locations   .red-location-4 {
+          top: -280px;
+          right: 172px;
+          position: absolute;
+      }
+
+      .large-device-locations  .red-location-3 .city-name-main.right-side-location {
+          position: relative;
+          left: 95px;
+      }
+
+      .large-device-locations  .red-location-0 .city-name-main.left-side-location {
+          position: relative;
+          left: 0px;
+      }
+
+      /*Red  */
+  }
+/* Location-responsive-breakpoints::End */
